@@ -4,7 +4,7 @@ An LLM-powered CLI that turns a one-line request into a polished, age-appropriat
 
 ## Architecture
 
-![Story Pipeline](./assets/user.png)
+<img src="./assets/user.png" height="400" />
 
 ## How It Works
 
