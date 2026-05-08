@@ -4,7 +4,7 @@ An LLM-powered CLI that turns a one-line request into a polished, age-appropriat
 
 ## Architecture
 
-<img src="./assets/user.png" height="400" />
+<img src="./assets/user.png" height="400" width="700" />
 
 ## How It Works
 
