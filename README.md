@@ -1,4 +1,4 @@
-# Bedtime Story Generator
+# Bedtime Story Generator -OnceUpon
 
 An LLM-powered CLI that turns a one-line request into a polished, age-appropriate bedtime story through a multi-stage prompt pipeline with automated quality control.
 
